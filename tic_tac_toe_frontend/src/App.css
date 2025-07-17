@@ -1,13 +1,15 @@
-/* CSS Variables for Theme Management */
+/* CSS Variables for Theme Management and KAVIA color palette */
 :root {
-  /* Light theme colors */
   --bg-primary: #ffffff;
   --bg-secondary: #f8f9fa;
   --text-primary: #282c34;
+  --kavia-green: #388e3c;
+  --kavia-accent: #fbc02d;
+  --kavia-blue: #1976d2;
   --text-secondary: #61dafb;
   --border-color: #e9ecef;
-  --button-bg: #007bff;
-  --button-text: #ffffff;
+  --button-bg: #fbc02d;
+  --button-text: #222;
 }
 
 [data-theme="dark"] {
